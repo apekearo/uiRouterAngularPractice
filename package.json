@@ -1,0 +1,16 @@
+{
+  "name": "firstangularrouter",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "helloworld.js"
+  },
+  "author": "Tony",
+  "license": "ISC",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.20",
+    "angular": "^1.7.5",
+    "require": "^2.4.20"
+  }
+}
